@@ -1,3 +1,2 @@
-#Optimize so fortify gets enabled (happens on some distros)...
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -std=gnu99")
 add_executable (format format.c)
