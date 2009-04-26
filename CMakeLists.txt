@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.6)
+add_subdirectory(random)
+add_subdirectory(format)
+add_subdirectory(heap)
+add_subdirectory(rettolibc)
