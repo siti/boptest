@@ -1,0 +1,4 @@
+This project aims to be a full buffer overflow mitigation test suite
+mainly for mainstream linux distributions.
+
+It is based on paxtest by Peter Busser <peter@adamantix.org>.
