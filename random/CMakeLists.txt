@@ -1,4 +1,4 @@
-set(CMAKE_C_FLAGS "-std=gnu99")
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -std=gnu99")
 
 add_executable (getstack getstack.c)
 add_executable (getmain getmain.c)
