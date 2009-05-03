@@ -5,5 +5,6 @@ add_executable (getmain getmain.c)
 add_executable (getstackprotector getstackprotector.c)
 add_executable (getvsyscall getvsyscall.c)
 add_executable (getamap getamap.c)
+add_executable (getdll getdll.c)
 
 
