@@ -1,5 +1,11 @@
+boptest (0.1-1ubuntu2) jaunty; urgency=low
+
+  * fix section
+
+ -- Stephen Cook <stephen@stephen-laptop.xesec.com>  Mon, 04 May 2009 00:11:54 +1200
+
 boptest (0.1-1ubuntu1) jaunty; urgency=low
 
   * Initial release
 
- -- Stephen Cook <sitiveni@gmail.com>  Sun, 03 May 2009 22:35:06 +1200
+ -- Stephen Cook <stephen@stephen-laptop.xesec.com>  Mon, 04 May 2009 00:11:47 +1200
