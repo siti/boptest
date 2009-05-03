@@ -1,0 +1,13 @@
+Source: boptest
+Section: utilities
+Priority: extra
+Maintainer: Stephen Cook <sitiveni@gmail.com>
+Build-Depends: cdbs, debhelper (>= 7), cmake, build-essential
+Standards-Version: 3.8.0
+Homepage: http://github.com/siti/boptest/tree/master
+
+Package: boptest
+Architecture: any
+Suggests: boptester
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Various tests for testing buffer overflow protections.

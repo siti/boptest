@@ -1,0 +1,22 @@
+This package was debianized by Stephen Cook <sitiveni@gmail.com> on
+Sun, 03 May 2009 22:35:06 +1200.
+
+It was downloaded from http://github.com/siti/boptest/tree/master
+
+Upstream Author(s):
+
+    Stephen Cook
+
+Copyright:
+
+    Copyright (C) 2009 Stephen Cook
+
+License:
+
+    MIT
+
+The Debian packaging is copyright 2009, Stephen Cook <sitiveni@gmail.com> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
+
+# Please also look if there are files or directories which have a
+# different copyright/license attached and list them here.
