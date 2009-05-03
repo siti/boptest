@@ -6,5 +6,6 @@ add_executable (getstackprotector getstackprotector.c)
 add_executable (getvsyscall getvsyscall.c)
 add_executable (getamap getamap.c)
 add_executable (getdll getdll.c)
+add_executable (getheap getheap.c)
 
-install_targets(/bin getstack getmain getstackprotector getvsyscall getamap getdll)
+install_targets(/bin getstack getmain getstackprotector getvsyscall getamap getdll getheap)
