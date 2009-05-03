@@ -5,3 +5,4 @@ add_executable (execdata execdata.c)
 add_executable (execheap execheap.c)
 add_executable (execstack execstack.c)
 
+install_targets(/bin execbss execdata execheap execstack)
