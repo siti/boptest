@@ -1,5 +1,5 @@
 Source: boptest
-Section: utilities
+Section: misc
 Priority: extra
 Maintainer: Stephen Cook <sitiveni@gmail.com>
 Build-Depends: cdbs, debhelper (>= 7), cmake, build-essential

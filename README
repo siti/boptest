@@ -18,3 +18,7 @@ it allows you to see what effect different options such as
 -DFORTIFY_SOURCE=2, -fstack-protector, -fPIC / -pie have.
 
 Currently you need to run the executables manually to see if they crash.
+
+TODO:
+ * mprotect support (possibly need to mess with selinux to make it a fair test)
+
